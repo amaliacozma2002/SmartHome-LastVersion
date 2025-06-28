@@ -1,0 +1,22 @@
+Link Github: https://github.com/amaliacozma2002/SmartHome-LastVersion
+
+Backend: limbaj JavaScript pentru Node.js, Framework Express, in directorul backend
+Frontend: limbaj JavaScriot/TypeScript, Framework React+Next.js in folderul src
+Baza de date: MongoDB
+
+Deschidem Visual Studio Code
+Trebuie instalat Node.js
+Navigam in folderul backend cu cd backend si instalam pachetele: npm install
+Navigam in folderul src cu cd src si instalam pachetele: npm install
+
+Pasi de instalare:
+1. Se cloneaza repo-ul de pe GitHub
+ git clone https://github.com/amaliacozma2002/SmartHome-LastVersion
+2. Se porneste backendul: npm run dev
+MongoDB connected
+Server listening on http://localhost:5000
+3. Se porneste frontendul: npm run dev
+Local:        http://localhost:3000
+Environments: .env.local
+
+Ctrl+Click http://localhost:3000
